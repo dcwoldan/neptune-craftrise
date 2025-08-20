@@ -1,0 +1,15 @@
+pypresence
+psutil
+keyboard
+requests
+flask
+pygame
+pyttsx3
+opencv-python
+numpy
+Pillow
+matplotlib
+scipy
+cryptography
+selenium
+beautifulsoup4
